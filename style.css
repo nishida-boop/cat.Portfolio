@@ -1,0 +1,260 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.top-cat{
+  height: 100px;
+  width: 100px;
+  margin-left: 100px;
+}
+.top-cats{
+  margin-left: 900px;
+  display: inline-block;
+  position: relative;
+  top: -50px;
+}
+.btn{
+  float:right;
+  margin-right: 50px;
+  text-decoration: none;
+  color: black;
+  opacity: 1;
+  font-weight: bolder;
+}
+.btn:hover{
+  opacity: 0.5;
+}
+.img-cat{
+  margin-top: -50px;
+  height: 780px;
+  width: 100%;
+}
+.small-letter{
+  position: absolute;
+  top: 350px;
+  left: 500px;
+  height: 200px;
+  width: 400px;
+}
+.text-cat{
+  text-align: center;
+  font-size: 30px;
+  letter-spacing: 1px;
+  margin-top: 80px;
+}
+.text-cat2{
+  position: relative;
+  text-align: center;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 2px;
+  top: 30px;
+}
+.text-cat3{
+  position: relative;
+  text-align: center;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 2px;
+  top: 60px;
+}
+.text-cat4{
+  position: relative;
+  text-align: center;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 2px;
+  top: 90px;
+}
+.all-cat{
+  background-color: #EEEEEE;
+}
+.main-cat{
+  text-align: center;
+  font-size: 40px;
+  margin-top: 150px;
+  margin-bottom: 50px;
+}
+.cat-img{
+  height: 300px;
+  width: 40%;
+  margin-left: 100px;
+}
+.cat-basic{
+  font-size: 25px;
+  position: relative;
+  top: -280px;
+  left: 700px;
+  right: 300px;
+  margin-right: 600px;
+  border-bottom :3px solid	#800000;
+  width: 430px;
+}
+.cat-text{
+  position: relative;
+  top: -250px;
+  left: 700px;
+  margin-right: 700px;
+}
+.cat-basic2{
+  font-size: 25px;
+  border-bottom :3px solid	#800000;
+  width: 430px;
+  margin-left: 100px;
+}
+.cat-text2{
+  margin-top: 30px;
+  margin-left: 100px;
+}
+.cat-img2{
+  height: 300px;
+  width: 40%;
+  margin-left: 100px;
+  position: relative;
+  top: -200px;
+}
+.cat-img3{
+  float: left;
+  height: 300px;
+  width: 40%;
+  margin-left: 100px;
+  margin-top: 200px;
+}
+.cat-basic3{
+  font-size: 25px;
+  border-bottom :3px solid	#800000;
+  width: 430px;
+  margin-left: 100px;
+  position: relative;
+  top: -280px;
+  left: 600px;
+  right: 300px;
+}
+.cat-text3{
+  position: relative;
+  top: -250px;
+  left: 700px;
+  right: 300px;
+  margin-right: 700px;
+}
+.cats-img{
+  width: 25%;
+  margin-top: 80px;
+  margin-left: 100px;
+}
+.cats-img2{
+  width: 25%;
+  margin-top: 80px;
+  position: relative;
+  top: -328px;
+  left: 460px;
+  right: 300px;
+}
+.cats-img3{
+  width: 25%;
+  margin-top: 80px;
+  position: relative;
+  top: -658px;
+  left: 820px;
+  right: 300px;
+}
+.texts-cat{
+  position: relative;
+  left: 100px;
+  top: 10px;
+  margin-right: 700px;
+}
+.texts-cat2{
+  position: relative;
+  left: 462px;
+  top: -320px;
+  margin-right: 700px;
+}
+.texts-cat3{
+  position: relative;
+  left: 826px;
+  top: -650px;
+  margin-right: 900px;
+  margin-bottom: -200px;
+}
+.main-cat2{
+  font-size: 40px;
+  text-align: center;
+  margin-top: 40px;
+}
+.cats-imgs{
+  width: 100%;
+  height: 400px;
+  margin-top: -600px;
+}
+.cat-good{
+  position: relative;
+  left: 626px;
+  top: -330px;
+  margin-right: 900px;
+  color: white;
+  font-size: 16px;
+}
+.cat-good2{
+  position: relative;
+  left: 626px;
+  top: -300px;
+  margin-right: 900px;
+  color: white;
+  font-size: 16px;
+}
+.main-cat3{
+  font-size: 40px;
+  text-align: center;
+  margin-top: -150px;
+  margin-bottom: 50px;
+}
+.texts-cats{
+  margin-left: 200px;
+  border-top: solid 1px black;
+  border-bottom: solid 1px black;
+  line-height: 40px;
+  width: 900px;
+
+}
+span{
+  color:red;
+  padding: 5px 10px;
+  border: solid 1px 	red;
+}
+.cat-btn{
+  display:block;
+  text-align: center;
+  margin-left:580px ;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 100px;
+  background-color: red;
+  color: white;
+  text-decoration: none;
+}
+.foot-bar{
+  margin-top: 50px;
+  float:left;
+  margin-left: 120px;
+}
+ul{
+  margin-top: 20px;
+}
+.foots-bars{
+  padding-bottom: 5px;
+  border-bottom: solid 1px white;
+}
+.foots-bar{
+  background-color:#AAAAAA;
+  height: 250px;
+  color:white;
+}
+.footer{
+  background-color:grey;
+  text-align: center;
+  height: 50px;
+  line-height: 50px;
+  color: white;
+  font-size: 10px;
+}
