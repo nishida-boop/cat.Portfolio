@@ -232,7 +232,12 @@ span{
   background-color: red;
   color: white;
   text-decoration: none;
+  opacity: 1;
 }
+.cat-btn:hover{
+  opacity: 0.5;
+}
+
 .foot-bar{
   margin-top: 50px;
   float:left;
