@@ -3,15 +3,17 @@
   margin: 0;
 }
 .top-cat{
+  margin-top: -20px;
   height: 100px;
   width: 100px;
   margin-left: 100px;
 }
 .top-cats{
   margin-left: 900px;
-  display: inline-block;
+  display: flex;
   position: relative;
   top: -50px;
+  right: 300px;
 }
 .btn{
   float:right;
@@ -32,7 +34,7 @@
 .small-letter{
   position: absolute;
   top: 350px;
-  left: 500px;
+  left: 300px;
   height: 200px;
   width: 400px;
 }
@@ -68,6 +70,7 @@
 }
 .all-cat{
   background-color: #EEEEEE;
+  width: 100%;
 }
 .main-cat{
   text-align: center;
@@ -85,32 +88,33 @@
   font-size: 25px;
   position: relative;
   top: -280px;
-  left: 700px;
+  left: 530px;
   right: 300px;
   margin-right: 600px;
   border-bottom :3px solid	#800000;
-  width: 430px;
+  width: 400px;
 }
 .cat-text{
   position: relative;
   top: -250px;
-  left: 700px;
+  left:530px;
   margin-right: 700px;
+  width: 400px;
 }
 .cat-basic2{
   font-size: 25px;
   border-bottom :3px solid	#800000;
-  width: 430px;
-  margin-left: 100px;
+  width: 400px;
+  margin-left: 50px;
 }
 .cat-text2{
   margin-top: 30px;
-  margin-left: 100px;
+  margin-left: 50px;
 }
 .cat-img2{
   height: 300px;
   width: 40%;
-  margin-left: 100px;
+  margin-left: 500px;
   position: relative;
   top: -200px;
 }
@@ -119,64 +123,66 @@
   height: 300px;
   width: 40%;
   margin-left: 100px;
-  margin-top: 200px;
+  margin-top: -100px;
 }
 .cat-basic3{
-  font-size: 25px;
-  border-bottom :3px solid	#800000;
-  width: 430px;
-  margin-left: 100px;
   position: relative;
   top: -280px;
-  left: 600px;
-  right: 300px;
+  left: 420px;
+  right: 300px; 
+  font-size: 25px;
+  border-bottom :3px solid	#800000;
+  width: 400px;
+  margin-left: 100px
 }
 .cat-text3{
   position: relative;
   top: -250px;
-  left: 700px;
+  left: 520px;
   right: 300px;
   margin-right: 700px;
+  width: 400px;
 }
 .cats-img{
   width: 25%;
-  margin-top: 80px;
-  margin-left: 100px;
+  margin-top: 50px;
+  margin-left: 50px;
 }
 .cats-img2{
   width: 25%;
-  margin-top: 80px;
+  margin-top: 102px;
   position: relative;
   top: -328px;
-  left: 460px;
+  left: 370px;
   right: 300px;
 }
 .cats-img3{
   width: 25%;
-  margin-top: 80px;
+  margin-top: 105px;
   position: relative;
-  top: -658px;
-  left: 820px;
-  right: 300px;
+  top: -635px;
+  left: 680px;
+
 }
 .texts-cat{
   position: relative;
-  left: 100px;
+  left: 50px;
   top: 10px;
   margin-right: 700px;
 }
 .texts-cat2{
   position: relative;
-  left: 462px;
+  left: 370px;
   top: -320px;
   margin-right: 700px;
 }
 .texts-cat3{
   position: relative;
-  left: 826px;
-  top: -650px;
+  left: 680px;
+  top: -620px;
   margin-right: 900px;
   margin-bottom: -200px;
+  width:250px;
 }
 .main-cat2{
   font-size: 40px;
@@ -195,6 +201,7 @@
   margin-right: 900px;
   color: white;
   font-size: 16px;
+  width:300px;
 }
 .cat-good2{
   position: relative;
@@ -203,6 +210,7 @@
   margin-right: 900px;
   color: white;
   font-size: 16px;
+  width:300px;
 }
 .main-cat3{
   font-size: 40px;
@@ -211,7 +219,7 @@
   margin-bottom: 50px;
 }
 .texts-cats{
-  margin-left: 200px;
+  margin-left: 20px;
   border-top: solid 1px black;
   border-bottom: solid 1px black;
   line-height: 40px;
@@ -226,7 +234,7 @@ span{
 .cat-btn{
   display:block;
   text-align: center;
-  margin-left:580px ;
+  margin-left:440px ;
   margin-top: 50px;
   margin-bottom: 50px;
   width: 100px;
@@ -242,7 +250,7 @@ span{
 .foot-bar{
   margin-top: 50px;
   float:left;
-  margin-left: 120px;
+  margin-left: 50px;
 }
 ul{
   margin-top: 20px;
