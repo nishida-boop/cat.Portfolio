@@ -72,7 +72,7 @@
   background-color: #EEEEEE;
   width: 100%;
 }
-.main-cat{
+#main-cat{
   text-align: center;
   font-size: 40px;
   padding-top: 50px;
@@ -184,7 +184,7 @@
   margin-bottom: -200px;
   width:250px;
 }
-.main-cat2{
+#main-cat2{
   font-size: 40px;
   text-align: center;
   margin-top: 40px;
@@ -212,7 +212,7 @@
   font-size: 16px;
   width:300px;
 }
-.main-cat3{
+#main-cat3{
   font-size: 40px;
   text-align: center;
   margin-top: -150px;
